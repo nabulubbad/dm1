@@ -1,5 +1,5 @@
 apt update && wget -O /tmp/geminilocale_all.deb http://download.blue-panel.com/geminilocale_gp4.php && apt install -y /tmp/geminilocale_all.deb
-apt update &&  apt install -y gp4-cam-feed-configs_2.0-r4_all.deb
+#apt update &&  apt install -y gp4-cam-feed-configs_2.0-r4_all.deb
 
 mkdir /media/sdcard
 rm fsfix newf
