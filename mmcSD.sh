@@ -22,5 +22,9 @@ echo "config.EMC.autoaudio_ac3=true">>/etc/enigma2/settings
 echo "config.EMC.epglang=ar_AE">>/etc/enigma2/settings
 echo "config.EMC.audlang=en">>/etc/enigma2/settings
 echo "config.usage.quickzap_bouquet_change=false">>/etc/enigma2/settings
+cp /media/sdcard/apps/ncam2.server >> /etc/enigma2/tuxbox/config/oscam.server
+cp /media/sdcard/apps/ncam2.server >> /etc/enigma2/tuxbox/config/ncam.server
+
+
 
 
