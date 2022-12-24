@@ -14,7 +14,7 @@ cp /media/sdcard/apps/rytec.sources.xml /etc/epgimport/
 ln -s /media/sdcard/picon /usr/share/enigma2/picon
 ln -s /media/sdcard/picon5030 /data/picon
 # installcam
-apt update && apt install enigma2-plugin-softcams-ncam-osdreambox -y
+apt update && apt install /media/sdcard/apps/enigma2-plugin-softcams-ncam-osdreambox_V13.5-r0.deb  -y
 # install emc
 apt update && apt install enigma2-plugin-extensions-enhancedmoviecenter -y
 echo "config.EMC.autoaudio=true">>/etc/enigma2/settings
@@ -22,7 +22,7 @@ echo "config.EMC.autoaudio_ac3=true">>/etc/enigma2/settings
 echo "config.EMC.epglang=ar_AE">>/etc/enigma2/settings
 echo "config.EMC.audlang=en">>/etc/enigma2/settings
 echo "config.usage.quickzap_bouquet_change=false">>/etc/enigma2/settings
-cp /media/sdcard/apps/ncam2.server >> /etc/enigma2/tuxbox/config/oscam.server
+#cp /media/sdcard/apps/ncam2.server >> /etc/enigma2/tuxbox/config/oscam.server
 cp /media/sdcard/apps/ncam2.server >> /etc/enigma2/tuxbox/config/ncam.server
 
 
