@@ -1,3 +1,6 @@
+apt update && wget -O /tmp/geminilocale_all.deb http://download.blue-panel.com/geminilocale_gp4.php && apt install -y /tmp/geminilocale_all.deb
+apt update &&  apt install -y gp4-cam-feed-configs_2.0-r4_all.deb
+
 mkdir /media/sdcard
 rm fsfix newf
 echo /dev/disk/by-uuid/ > fsfix
@@ -11,7 +14,7 @@ cp /media/sdcard/apps/rytec.sources.xml /etc/epgimport/
 ln -s /media/sdcard/picon /usr/share/enigma2/picon
 ln -s /media/sdcard/picon5030 /data/picon
 # installcam
-apt update && apt install /media/sdcard/apps/enigma2-plugin-softcams-ncam-osdreambox_V13.5-r0.deb -y
+apt update && apt install enigma2-plugin-softcams-ncam-osdreambox -y
 # install emc
 apt update && apt install enigma2-plugin-extensions-enhancedmoviecenter -y
 echo "config.EMC.autoaudio=true">>/etc/enigma2/settings
