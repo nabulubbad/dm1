@@ -1,0 +1,103 @@
+ID,Competition,Season,Active,Type,Parent
+8217676,QNB Stars League,18/19,FALSE,League,0
+8215909,Sheikh Jassim Cup,18/19,FALSE,Cup,0
+8233667,Qatar Gas U23 League,18/19,FALSE,League,0
+8216766,U19 League,18/19,FALSE,League,0
+8216763,U17 League - 2nd Division,18/19,FALSE,League,0
+8216758,U17 League - 1st Division,18/19,FALSE,League,0
+8216754,U15 League - 2nd Division,18/19,FALSE,League,0
+8216750,U15 League - 1st Division,18/19,FALSE,League,0
+8216744,U14 League - 2nd Division,18/19,FALSE,League,0
+8216741,U14 League - 1st Division,18/19,FALSE,League,0
+8216719,U13 League - 2nd Division,18/19,FALSE,League,0
+8216712,U13 League - 1st Division,18/19,FALSE,League,0
+8255377,2nd Division League,18/19,FALSE,League,0
+8256454,QSL Cup,18/19,FALSE,Combo,0
+8256480,QSL Cup GA,18/19,FALSE,League,8256454
+8256622,QSL Cup GB,18/19,FALSE,League,8256454
+911400,Emir Cup,18/19,FALSE,Cup,0
+858678,Emir Cup,2017,FALSE,Cup,0
+911403,Qatar Cup,18/19,FALSE,Cup,0
+8326586,University League,18/19,FALSE,Combo,0
+8326688,University League GA,18/19,FALSE,League,8326586
+8326770,University League GB,18/19,FALSE,League,8326586
+8314118,Cup U19,18/19,FALSE,Cup,0
+8391431,Futsal Leage,18/19,FALSE,League,0
+8393254,School League,18/19,FALSE,Combo,0
+8393256,School League A,18/19,FALSE,League,8393254
+8393723,School League B,18/19,FALSE,League,8393254
+8393819,School League C,18/19,FALSE,League,8393254
+8384736,Amateur League,18/19,FALSE,League,0
+8402140,Asian Communities Football Tournament,18/19,FALSE,Combo,0
+8402544,Asian Communities Football Tournament A,18/19,FALSE,League,8402140
+8402548,Asian Communities Football Tournament B,18/19,FALSE,League,8402140
+8603956,2nd Division Leage,18/19,FALSE,Combo,0
+8603976,2nd Division Leage GA,18/19,FALSE,Cup,8603956
+8603979,2nd Division Leage GB,18/19,FALSE,Cup,8603956
+8996197,Asian Cup 2019,2019,FALSE,Combo,0
+8996208,Asian Cup 2019 H,2019,FALSE,Cup,8996197
+9974542,Amir Cup,2019,FALSE,Cup,0
+11498563,Sheikh Jassim Cup,2019,FALSE,Cup,0
+11378713,QNB Stars League,19/20,FALSE,League,0
+11470286,Championship U18 - Second Division,19/20,FALSE,League,0
+11468011,Championship U18  - First Division,19/20,FALSE,League,0
+11469930,U-16 League - Second Division,19/20,FALSE,League,0
+11459538,U-16 League - First Division,19/20,FALSE,League,0
+11469576,Championship U15 - Second Division,19/20,FALSE,League,0
+11459038,Championship U15  - First Division,19/20,FALSE,League,0
+11468867,Championship U14- Second Division,19/20,FALSE,League,0
+11458541,Championship U14 - First Division,19/20,FALSE,League,0
+11468512,Championship U13  - Second Division,19/20,FALSE,League,0
+11457765,Championship U13 - First Division,19/20,FALSE,League,0
+11884933,Second Devision,20/20,FALSE,League,0
+11648761,Qatar Gas League,20/20,FALSE,League,0
+12618091,2nd Division Cup,19/20,FALSE,Combo,0
+12618119,2nd Division Cup GA,19/20,FALSE,Cup,12618091
+13004443,2nd Division Cup Finals,19/20,FALSE,Cup,12618091
+12618182,2nd Division Cup GB,19/20,FALSE,Cup,12618091
+13213138,Amir Cup,2020,FALSE,Cup,0
+11952077,Ooredoo Cup,19/20,FALSE,Combo,0
+11952501,Ooredoo Cup A,19/20,FALSE,Cup,11952077
+11952507,Ooredoo Cup B,19/20,FALSE,Cup,11952077
+13306344,Ooredoo Cup Finals,19/20,FALSE,Cup,11952077
+13389695,Qatar Cup,2020,FALSE,Cup,0
+13825840,Futsal League 19/20,2020,FALSE,Cup,0
+<<<<<<< HEAD
+16974429,QNB Stars League,20/21,FALSE,League,0
+17197229,Ooredoo Cup,20/21,FALSE,Cup,0
+17197270,Ooredoo Cup A,20/21,FALSE,Cup,17197229
+17197750,Ooredoo Cup B,20/21,FALSE,Cup,17197229
+17029085,Second Devision Cup,20/21,FALSE,Cup,0
+17366230,Qatar Gas League,20/21,FALSE,League,0
+17367029,Second Devision League,20/21,FALSE,League,0
+20690636,Qatar Stars League,21/22,FALSE,League,0
+20971732,Ooredoo Cup,21/22,FALSE,Cup,0
+20972204,Ooredoo Cup A,21/22,FALSE,Cup,20971732
+20972275,Ooredoo Cup B,21/22,FALSE,Cup,20971732
+20973547,Reserve League,21/22,FALSE,0
+20972416,Second Devision League,21/22,FALSE,0
+16974429,QNB Stars League,20/21,FALSE,League,0
+17197229,Ooredoo Cup,20/21,FALSE,Cup,0
+17197270,Ooredoo Cup A,20/21,FALSE,Cup,17197229
+17197750,Ooredoo Cup B,20/21,FALSE,Cup,17197229
+17029085,Second Devision Cup,20/21,FALSE,Cup,0
+17366230,Qatar Gas League,20/21,FALSE,League,0
+17367029,Second Devision League,20/21,FALSE,League,0
+18267750,Amir Cup,2021,FALSE,Cup,0
+20690636,Qatar Stars League,21/22,FALSE,League,0
+20971732,Ooredoo Cup,21/22,FALSE,Cup,0
+20972204,Ooredoo Cup A,21/22,FALSE,Cup,20971732
+20972275,Ooredoo Cup B,21/22,FALSE,Cup,20971732
+20973547,Reserve League,21/22,FALSE,0
+20972416,Second Devision League,21/22,FALSE,0
+23587442,QNB Qatar Stars League ,22/23,TRUE,League,0
+23725602,Second Division League ,22/23,TRUE,League,0
+24073504,Ooredoo Cup,22/23,TRUE,Cup,0
+24073539,Ooredoo Cup A,22/23,TRUE,Cup,24073504
+24073742,Ooredoo Cup B,22/23,TRUE,Cup,24073504
+23975264,Second Division Cup,22/23,TRUE,Cup,0
+23975281,Second Division Cup A,22/23,TRUE,Cup,23975264
+23975359,Second Division Cup B,22/23,TRUE,Cup,23975264
+24585546,U-20 League - First Division ,22/23,TRUE,League,0
+24661646,U-20 League - Second Division ,22/23,TRUE,League,0
+24749771,Amir Cup,22/23,TRUE,Cup,0
